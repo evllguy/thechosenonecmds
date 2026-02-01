@@ -5,10 +5,15 @@ _extremely buggy so like.. sorry_
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/evllguy/thechosenonecmds/refs/heads/main/main"))()
 ```
+ **- Uses the prefix !**
  - Currently 15+ commands
  - Provides good (sort of) features
+ - Saves your commands by toggling !qot
  - I skidded IY for !serverhop
  - mb yo
 
 ## Usage
-**To learn more about how to use this, use the command !cmds in the roblox text chat to load up commands in your console.**
+**To learn more about how to use this, use the command !cmds in the roblox text chat to load up commands in your console.*
+
+## Suggestions
+If you have any commands you would want me to add, _DM me on Discord at @evillguy_
