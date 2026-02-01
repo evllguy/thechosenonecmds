@@ -11,6 +11,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/evllguy/thechosenonec
  - Saves your commands by toggling !qot
  - I skidded IY for !serverhop
  - mb yo
+ - I also skidded 2areyoumental's hidden chat
+ - mb yo 2
 
 ## Usage
 **To learn more about how to use this, use the command !cmds in the roblox text chat to load up commands in your console.*
