@@ -1,12 +1,12 @@
 # TCO Cmds
-### a commands hub that provides antimaptidenan, antimute, antiblind, and more!
+### a commands hub that provides custom cmds, antimute, antiblind, and more!
 _extremely buggy so like.. sorry_
 ## Updates every month
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/evllguy/thechosenonecmds/refs/heads/main/main"))()
 ```
  **- Uses the prefix !**
- - Currently 15+ commands
+ - Currently 25+ commands
  - Provides good (sort of) features
  - Saves your commands by toggling !qot
  - I skidded IY for !serverhop
