@@ -6,7 +6,7 @@ _extremely buggy so like.. sorry_
 loadstring(game:HttpGet("https://raw.githubusercontent.com/evllguy/thechosenonecmds/refs/heads/main/main"))()
 ```
  **- Uses the prefix !**
- - Currently 25+ commands
+ - Currently 50+ commands
  - Provides good (sort of) features
  - Saves your commands by toggling !qot
  - I skidded IY for !serverhop
