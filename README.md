@@ -8,7 +8,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/evllguy/thechosenonec
  **- Uses the prefix !**
  - Currently 50+ commands
  - Provides good (sort of) features
- - Saves your commands by toggling !qot
+ - -Saves your commands by toggling !autoload- haven't added that yet
  - I skidded IY for !serverhop
  - mb yo
  - I also skidded 2areyoumental's hidden chat
