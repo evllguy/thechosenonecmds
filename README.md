@@ -1,7 +1,7 @@
 # TCO Cmds
 ### a commands hub that provides custom cmds, antimute, antiblind, and more!
 _extremely buggy so like.. sorry_
-## latest update: reworked systems, added ui, made adding commands easier, etc.
+## latest update: added antimaptidenan & qol
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/evllguy/thechosenonecmds/refs/heads/main/main"))()
 ```
